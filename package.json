@@ -1,0 +1,16 @@
+{
+  "name": "conditional.js",
+  "version": "1.0.0",
+  "description": "A npm package to manage your conditional forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "keywords": [
+    "conditional",
+    "conditional-forms",
+    "conditional-logic"
+  ],
+  "author": "Nabin Paudyal <nabindenepali@outlook.com>",
+  "license": "ISC"
+}
